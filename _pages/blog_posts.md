@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /blog-posts/
-title: "Blog about Data Science"
+title: "Blog"
 author_profile: true
 ---
